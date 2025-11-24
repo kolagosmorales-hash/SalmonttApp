@@ -37,11 +37,11 @@ src/
     |__ CentroService
 
 data
-|__ centro.txt
+|__ centro.txt 
 
 Ejecucion del programa 
 
-1. clonar el reprositorio:
+1. clonar el reprositorio: https://github.com/kolagosmorales-hash/SalmonttApp/blob/81a7ae49f51f75a13ebf0a7ddce6c36b7c2fd75f/SalmonttApp.zip
 2. abrir el archivo 
 3. verificar que el archivo data/centro.txt exista dentro del proyecto 
 4. ejecutar la clase principal: src/app/Main.java
@@ -49,3 +49,6 @@ Ejecucion del programa
  - lista de todos los centros
  - resultado de la busqueda por localidad 
  - centros filtrados por estado
+
+Konny Lagos 
+Asignatura: Desarrollo Orientado a Objeto 1
